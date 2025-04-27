@@ -87,4 +87,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome](https://github.com/FranALSilva) 🚀
+Desenvolvido por [Fran AL Silva](https://github.com/FranALSilva) 🚀
